@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:52:01.433394
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:40
 #+TITLE: 法璽印禪師語錄
 #+PROPERTY: CBETA_ID J28nB220
 #+PROPERTY: ID KR6q0434
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 28, No. B220
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0434_J_004-0791c> 
 #+PROPERTY: JUAN 4
-
- 法璽印禪師語錄卷第四¶
+法璽印禪師語錄卷第四¶
 嗣法門人性圓旋璣旋哲旋賢等編次¶
 
-住北京南城清化禪寺語錄¶
+* 住北京南城清化禪寺語錄¶
 
 師於壬子年九月二十二日進院。¶
 
